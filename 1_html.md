@@ -36,8 +36,8 @@ HTML5의 <! DOCTYPE> 선언은 다음과 같습니다.<br>
 
 ---
 
-## [다음]((https://github.com/devebe/HTML/blob/master/2_Semantic_HTML.md))
-## [목차]((https://github.com/devebe/HTML/blob/master/README.md))
+## [다음](https://github.com/devebe/HTML/blob/master/2_Semantic_HTML.md)
+## [목차](https://github.com/devebe/HTML/blob/master/README.md)
 ---
 
  ### 참조

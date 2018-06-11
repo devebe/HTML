@@ -27,4 +27,4 @@ div tag 사용을 최대한 지양하는것이 Semantic한 HTML작성에 도움�
 ---
 
 ## [이전 -> 1. HTML](https://github.com/devebe/HTML/blob/master/1_html.md)
-## [목차]((https://github.com/devebe/HTML/blob/master/README.md))
+## [목차](https://github.com/devebe/HTML/blob/master/README.md)
