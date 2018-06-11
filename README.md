@@ -9,3 +9,4 @@ deveb22@gmail.com
 -----
 
 ## [1. HTML](https://github.com/devebe/HTML/blob/master/1_html.md)
+## [2. Semantic HTML]((https://github.com/devebe/HTML/blob/master/2_Semantic_HTML.md))
