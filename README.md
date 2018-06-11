@@ -8,4 +8,4 @@ deveb22@gmail.com
 ## Content
 -----
 
-## [1. HTML](https://github.com/devebe/HTML/blob/master/html.md)
+## [1. HTML](https://github.com/devebe/HTML/blob/master/1_html.md)
